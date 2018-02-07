@@ -66,8 +66,8 @@
                 <artifactId>frontend-maven-plugin</artifactId>
                 <version>1.6</version>
                 <configuration>
-                    <installDirectory>main/web/</installDirectory>
-                    <workingDirectory>main/web/</workingDirectory>
+                    <installDirectory>src/main/web/</installDirectory>
+                    <workingDirectory>src/main/web/</workingDirectory>
                 </configuration>
                 <executions>
 
