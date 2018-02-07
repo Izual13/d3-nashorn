@@ -1,0 +1,21 @@
+{
+  "name": "d3-nashorn",
+  "version": "0.0.1-SNAPSHOT",
+  "description": "",
+  "main": "./src",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "domino": "^2.0.0"
+  },
+  "devDependencies": {
+    "webpack": "1.12.9",
+    "webpack-dev-server": "1.14.0",
+    "jshint": "^2.9.1",
+    "mocha": "^4.0.1",
+    "should": "^13.1.2"
+  }
+}
