@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "webpack": "1.12.9",
-    "webpack-dev-server": "1.14.0",
+    "webpack-dev-server": "3.1.14",
     "jshint": "^2.9.1",
     "mocha": "^4.0.1",
     "should": "^13.1.2"
